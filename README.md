@@ -30,6 +30,7 @@
 
 ## OUTPUT
 
+[Priya -Web Assignment.pdf](https://github.com/Priyapugaz/Ex01/files/11008674/Priya.-Web.Assignment.pdf)
 
 ## RESULT
   The basic commands in networking are executed successfully.
