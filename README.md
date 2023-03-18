@@ -1,3 +1,4 @@
+[Priya -Web Assignment.pdf](https://github.com/Priyapugaz/Ex01/files/11008670/Priya.-Web.Assignment.pdf)
 # Ex.01 BASIC NETWORKING COMMANDS
 ## AIM
   To understand the working of basic commands in networking.
